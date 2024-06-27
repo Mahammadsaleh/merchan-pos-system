@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@zxing/library": "^0.21.0",
+    "instascan": "^1.0.0",
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.92.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
